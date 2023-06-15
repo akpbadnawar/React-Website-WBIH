@@ -22,7 +22,7 @@ const Home = () => {
         <img src={vg} alt='Graphics'/>
         <div>
             <p>
-            Welcome to our website development service! We are a team of dedicated professionals passionate about creating stunning and functional websites for our valued customers. Whether you're a small business, an entrepreneur, or an established brand, we have the expertise and creativity to bring your online presence to life. With our meticulous attention to detail and deep understanding of user experience, we craft websites that not only look impressive but also provide a seamless browsing experience across all devices. From custom designs to robust development, our services are tailored to meet your specific requirements. Trust us to deliver a website that not only reflects your brand's identity but also drives engagement and boosts conversions. Let us be your partner in unlocking the full potential of your online presence. Contact us today and let's embark on a journey of digital success together!
+            Welcome to our website development service! We are a team of dedicated professionals passionate about creating stunning and functional websites for our valued customers. Whether you're a small business, an entrepreneur, or an established brand, we have the expertise and creativity to bring your online presence to life.
             </p>
         </div>
     </div>

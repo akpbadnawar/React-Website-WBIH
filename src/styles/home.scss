@@ -60,13 +60,13 @@
         flex-direction: column;
         justify-content: center;
         align-items: center;
-        padding: 5rem;
+        padding: 2rem;
         height: 100vh;
 
         >p {
             color: $first;
             letter-spacing: 2px;
-            word-spacing: 5px;
+            word-spacing: 1px;
             font: 100 1.2rem $text2 
         }
     }
